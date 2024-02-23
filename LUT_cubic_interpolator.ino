@@ -1,3 +1,5 @@
+//Dreamed by Gemini
+
 #define TABLE_SIZE 128 // Adjust table size as needed
 #define PI 3.14159265359
 
